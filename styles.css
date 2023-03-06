@@ -1,0 +1,9 @@
+@import url("style.css");
+
+.bg-dark {
+	background-color: #071629 !important;
+}
+
+.nav-link {
+	color: white;
+}
